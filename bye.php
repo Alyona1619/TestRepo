@@ -4,6 +4,6 @@
         <title>Тестируем PHP</title>
     </head>
     <body>
-        <?php echo '<p>Bye, bye!</p>'; ?>
+        <?php echo '<p>Double Bye, bye!</p>'; ?>
     </body>
 </html>
